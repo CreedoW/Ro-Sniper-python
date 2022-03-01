@@ -190,6 +190,7 @@ if __name__ == '__main__':
         print("Cookie error")
         time.sleep(5)
         exit(0)    
+    print("Please create caches folder !")
     i = input("(1) Caching, (2) Sniping")
 
     
