@@ -3,7 +3,7 @@
 ## How it works?
 
 It uses roblox inventory api to get item price.
-As it doesn't load catalog website it is faster then any other sniper programs.
+As it doesn't load catalog website it is faster than any other sniper programs.
 
 ## Requirements
 
