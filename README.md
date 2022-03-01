@@ -1,5 +1,10 @@
 # Ro-Sniper-python
 
+## How it works?
+
+It uses roblox inventory api to get item price.
+As it doesn't load catalog website it is faster then any other sniper programs.
+
 ## Requirements
 
 Python >= 3.7, python-dotenv
